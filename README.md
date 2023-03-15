@@ -1,2 +1,2 @@
 # KiyafetSatisSitesi
- Kıyafet mağzasının satışta ki ürünleri (Bootstrap)
+ Kıyafet mağazasının satıştaki ürünleri (Bootstrap)
