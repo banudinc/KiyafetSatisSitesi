@@ -1,2 +1,2 @@
 # KiyafetSatisSitesi
- Kıyafet Satış Sitesi
+ Kıyafet mağzasının satışta ki ürünleri
